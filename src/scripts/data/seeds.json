@@ -1,0 +1,92 @@
+[
+  {
+    "name": "篮球比赛",
+    "participants": 0,
+    "maxParticipants": 20,
+    "price": 50
+  },
+  {
+    "name": "足球训练",
+    "participants": 0,
+    "maxParticipants": 15,
+    "price": 30
+  },
+  {
+    "name": "羽毛球对战",
+    "participants": 0,
+    "maxParticipants": 10,
+    "price": 20
+  },
+  {
+    "name": "游泳课程",
+    "participants": 0,
+    "maxParticipants": 8,
+    "price": 60
+  },
+  {
+    "name": "网球单打",
+    "participants": 0,
+    "maxParticipants": 4,
+    "price": 40
+  },
+  {
+    "name": "乒乓球比赛",
+    "participants": 0,
+    "maxParticipants": 12,
+    "price": 15
+  },
+  {
+    "name": "排球联赛",
+    "participants": 0,
+    "maxParticipants": 18,
+    "price": 35
+  },
+  {
+    "name": "瑜伽课程",
+    "participants": 0,
+    "maxParticipants": 25,
+    "price": 25
+  },
+  {
+    "name": "跆拳道训练",
+    "participants": 0,
+    "maxParticipants": 12,
+    "price": 45
+  },
+  {
+    "name": "舞蹈课",
+    "participants": 0,
+    "maxParticipants": 20,
+    "price": 30
+  },
+  {
+    "name": "攀岩体验",
+    "participants": 0,
+    "maxParticipants": 6,
+    "price": 70
+  },
+  {
+    "name": "射箭训练",
+    "participants": 0,
+    "maxParticipants": 8,
+    "price": 55
+  },
+  {
+    "name": "高尔夫入门",
+    "participants": 0,
+    "maxParticipants": 5,
+    "price": 90
+  },
+  {
+    "name": "骑行俱乐部",
+    "participants": 0,
+    "maxParticipants": 30,
+    "price": 20
+  },
+  {
+    "name": "健身团课",
+    "participants": 0,
+    "maxParticipants": 40,
+    "price": 25
+  }
+]

@@ -1,0 +1,445 @@
+2025-08-07 14:13:58.169 WARN 36228 [-/::1/-/1ms GET /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 14:39:53.446 WARN 34612 [-/::1/-/2ms GET /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 14:40:51.880 WARN 34612 [-/::1/-/1ms GET /api/events/reviews] NotFoundError: /api/events/reviews Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 14:44:08.216 WARN 34612 [-/::1/-/1ms GET /api/events/register/2] NotFoundError: /api/events/register/2 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 18:49:07.128 WARN 7400 [-/::1/-/3ms GET /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 19:27:34.572 WARN 17544 [-/::1/-/1ms POST /api/events/register] NotFoundError: /api/events/register Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 19:41:34.541 WARN 17544 [-/::1/-/1ms POST /api/events/register] NotFoundError: /api/events/register Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 19:41:37.477 WARN 17544 [-/::1/-/1ms POST /api/events/register] NotFoundError: /api/events/register Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:19:05.463 WARN 20728 [-/::1/-/0ms POST /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:28:11.278 WARN 25276 [-/::1/-/1ms POST /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:28:20.401 WARN 25276 [-/::1/-/0ms POST /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:31:26.054 WARN 38900 [-/::1/-/2ms POST /api/events/register/3] NotFoundError: /api/events/register/3 Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:31:30.789 WARN 38900 [-/::1/-/2ms POST /api/events/reviews] NotFoundError: /api/events/reviews Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:40:26.162 WARN 27804 [-/::1/-/2ms POST /api/events/register] NotFoundError: /api/events/register Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 20:40:35.948 WARN 27804 [-/::1/-/0ms POST /api/events/register] NotFoundError: /api/events/register Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 22:45:29.469 WARN 12616 [-/::ffff:127.0.0.1/-/2ms GET /api/user/profile] ForbiddenError: Forbidden
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\common\webGenerator.js:32:27
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\info\dist\middleware\info.middleware.js:35:24
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '403',
+  cause: undefined,
+  status: 403,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}
+2025-08-07 23:55:18.874 ERROR 41816 [-/::ffff:127.0.0.1/-/36ms GET /api/events/3/reviews] 获取评价失败: QueryFailedError: SQLITE_ERROR: no such column: review.createdAt
+    at handler (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:133:29)
+    at replacement (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\trace.js:25:27)
+    at Statement.errBack (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\sqlite3.js:15:21) {
+  query: 'SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 3 ORDER BY review.createdAt DESC',
+  parameters: [],
+  driverError: Error: SQLITE_ERROR: no such column: review.createdAt
+  --> in Database#all('SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 3 ORDER BY review.createdAt DESC', [], [Function: handler])
+      at execute (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:85:50)
+      at E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:168:23
+      at new Promise (<anonymous>)
+      at SqliteQueryRunner.query (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:74:16)
+      at processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at SelectQueryBuilder.loadRawResults (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:3808:25)
+      at SelectQueryBuilder.getRawMany (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:1627:29)
+      at EventService.getReviewsByEvent (E:\SportsActivityRoom\webbackend\src\service\event.service.ts:120:12)
+      at ApiController.getEventReviews (E:\SportsActivityRoom\webbackend\src\controller\api.controller.ts:73:21) {
+    errno: 1,
+    code: 'SQLITE_ERROR',
+    __augmented: true
+  },
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  __augmented: true
+}
+2025-08-07 23:55:26.008 ERROR 41816 [-/::ffff:127.0.0.1/-/3ms GET /api/events/1/reviews] 获取评价失败: QueryFailedError: SQLITE_ERROR: no such column: review.createdAt
+    at handler (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:133:29)
+    at replacement (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\trace.js:25:27)
+    at Statement.errBack (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\sqlite3.js:15:21) {
+  query: 'SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 1 ORDER BY review.createdAt DESC',
+  parameters: [],
+  driverError: Error: SQLITE_ERROR: no such column: review.createdAt
+  --> in Database#all('SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 1 ORDER BY review.createdAt DESC', [], [Function: handler])
+      at execute (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:85:50)
+      at E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:168:23
+      at new Promise (<anonymous>)
+      at SqliteQueryRunner.query (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:74:16)
+      at processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at SelectQueryBuilder.loadRawResults (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:3808:25)
+      at SelectQueryBuilder.getRawMany (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:1627:29)
+      at EventService.getReviewsByEvent (E:\SportsActivityRoom\webbackend\src\service\event.service.ts:120:12)
+      at ApiController.getEventReviews (E:\SportsActivityRoom\webbackend\src\controller\api.controller.ts:73:21) {
+    errno: 1,
+    code: 'SQLITE_ERROR',
+    __augmented: true
+  },
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  __augmented: true
+}
+2025-08-07 23:55:35.938 ERROR 41816 [-/::ffff:127.0.0.1/-/2ms GET /api/events/1/reviews] 获取评价失败: QueryFailedError: SQLITE_ERROR: no such column: review.createdAt
+    at handler (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:133:29)
+    at replacement (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\trace.js:25:27)
+    at Statement.errBack (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\sqlite3.js:15:21) {
+  query: 'SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 1 ORDER BY review.createdAt DESC',
+  parameters: [],
+  driverError: Error: SQLITE_ERROR: no such column: review.createdAt
+  --> in Database#all('SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 1 ORDER BY review.createdAt DESC', [], [Function: handler])
+      at execute (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:85:50)
+      at E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:168:23
+      at new Promise (<anonymous>)
+      at SqliteQueryRunner.query (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:74:16)
+      at processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at SelectQueryBuilder.loadRawResults (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:3808:25)
+      at SelectQueryBuilder.getRawMany (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:1627:29)
+      at EventService.getReviewsByEvent (E:\SportsActivityRoom\webbackend\src\service\event.service.ts:120:12)
+      at ApiController.getEventReviews (E:\SportsActivityRoom\webbackend\src\controller\api.controller.ts:73:21) {
+    errno: 1,
+    code: 'SQLITE_ERROR',
+    __augmented: true
+  },
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  __augmented: true
+}
+2025-08-07 23:59:06.234 ERROR 41816 [-/::ffff:127.0.0.1/-/2ms GET /api/events/1/reviews] 获取评价失败: QueryFailedError: SQLITE_ERROR: no such column: review.createdAt
+    at handler (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:133:29)
+    at replacement (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\trace.js:25:27)
+    at Statement.errBack (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\sqlite3.js:15:21) {
+  query: 'SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 1 ORDER BY review.createdAt DESC',
+  parameters: [],
+  driverError: Error: SQLITE_ERROR: no such column: review.createdAt
+  --> in Database#all('SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 1 ORDER BY review.createdAt DESC', [], [Function: handler])
+      at execute (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:85:50)
+      at E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:168:23
+      at new Promise (<anonymous>)
+      at SqliteQueryRunner.query (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:74:16)
+      at processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at SelectQueryBuilder.loadRawResults (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:3808:25)
+      at SelectQueryBuilder.getRawMany (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:1627:29)
+      at EventService.getReviewsByEvent (E:\SportsActivityRoom\webbackend\src\service\event.service.ts:120:12)
+      at ApiController.getEventReviews (E:\SportsActivityRoom\webbackend\src\controller\api.controller.ts:73:21) {
+    errno: 1,
+    code: 'SQLITE_ERROR',
+    __augmented: true
+  },
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  __augmented: true
+}
+2025-08-07 23:59:23.097 ERROR 41816 [-/::ffff:127.0.0.1/-/2ms GET /api/events/2/reviews] 获取评价失败: QueryFailedError: SQLITE_ERROR: no such column: review.createdAt
+    at handler (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:133:29)
+    at replacement (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\trace.js:25:27)
+    at Statement.errBack (E:\SportsActivityRoom\webbackend\node_modules\sqlite3\lib\sqlite3.js:15:21) {
+  query: 'SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 2 ORDER BY review.createdAt DESC',
+  parameters: [],
+  driverError: Error: SQLITE_ERROR: no such column: review.createdAt
+  --> in Database#all('SELECT "review"."id" AS id, "review"."rating" AS rating, "review"."comment" AS comment, review.createdAt AS createdAt, "user"."username" AS username FROM "event_reviews" "review" LEFT JOIN "users" "user" ON "review"."userId" = "user"."id" WHERE "review"."eventId" = 2 ORDER BY review.createdAt DESC', [], [Function: handler])
+      at execute (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:85:50)
+      at E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:168:23
+      at new Promise (<anonymous>)
+      at SqliteQueryRunner.query (E:\SportsActivityRoom\webbackend\src\driver\sqlite\SqliteQueryRunner.ts:74:16)
+      at processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at SelectQueryBuilder.loadRawResults (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:3808:25)
+      at SelectQueryBuilder.getRawMany (E:\SportsActivityRoom\webbackend\src\query-builder\SelectQueryBuilder.ts:1627:29)
+      at EventService.getReviewsByEvent (E:\SportsActivityRoom\webbackend\src\service\event.service.ts:120:12)
+      at ApiController.getEventReviews (E:\SportsActivityRoom\webbackend\src\controller\api.controller.ts:73:21) {
+    errno: 1,
+    code: 'SQLITE_ERROR',
+    __augmented: true
+  },
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  __augmented: true
+}

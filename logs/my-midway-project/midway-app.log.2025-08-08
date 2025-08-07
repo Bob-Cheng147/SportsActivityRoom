@@ -1,0 +1,19 @@
+2025-08-08 00:49:10.663 WARN 3292 [-/::ffff:127.0.0.1/-/7ms GET /api/get_user?uid=123] NotFoundError: /api/get_user Not Found
+    at notFound (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:136:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at cors (E:\SportsActivityRoom\node_modules\@koa\cors\index.js:109:16)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\i18n\dist\middleware.js:150:17
+    at bodyParser (E:\SportsActivityRoom\webbackend\node_modules\koa-bodyparser\index.js:78:5)
+    at session (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\session\dist\middleware\session.js:137:17)
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:273:40
+    at E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\core\dist\baseFramework.js:267:24
+    at midwayRootMiddleware (E:\SportsActivityRoom\webbackend\node_modules\@midwayjs\koa\dist\framework.js:142:13) {
+  code: '404',
+  cause: undefined,
+  status: 404,
+  headers: {
+    'Access-Control-Allow-Origin': 'http://localhost:5173',
+    'Access-Control-Allow-Credentials': 'true',
+    vary: 'Origin'
+  }
+}

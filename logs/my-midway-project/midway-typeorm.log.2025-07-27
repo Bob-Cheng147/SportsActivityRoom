@@ -1,0 +1,136 @@
+2025-07-27 20:27:51.578 INFO 23720 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 20:27:51.580 INFO 23720 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 20:27:51.581 INFO 23720 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 20:27:51.582 INFO 23720 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 20:27:51.583 INFO 23720 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 20:27:51.583 INFO 23720 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 20:27:51.583 INFO 23720 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 20:27:51.584 INFO 23720 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 20:27:51.584 INFO 23720 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 20:27:51.586 INFO 23720 [ '[QUERY]: COMMIT' ]
+2025-07-27 20:27:51.587 INFO 23720 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 21:17:07.936 INFO 17324 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 21:17:07.938 INFO 17324 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 21:17:07.939 INFO 17324 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 21:17:07.940 INFO 17324 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 21:17:07.941 INFO 17324 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 21:17:07.942 INFO 17324 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 21:17:07.942 INFO 17324 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 21:17:07.943 INFO 17324 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 21:17:07.943 INFO 17324 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 21:17:07.945 INFO 17324 [ '[QUERY]: COMMIT' ]
+2025-07-27 21:17:07.946 INFO 17324 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 21:18:42.411 INFO 17816 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 21:18:42.412 INFO 17816 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 21:18:42.413 INFO 17816 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 21:18:42.414 INFO 17816 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 21:18:42.415 INFO 17816 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 21:18:42.416 INFO 17816 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 21:18:42.416 INFO 17816 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 21:18:42.417 INFO 17816 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 21:18:42.418 INFO 17816 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 21:18:42.420 INFO 17816 [ '[QUERY]: COMMIT' ]
+2025-07-27 21:18:42.421 INFO 17816 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 21:19:05.588 INFO 30676 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 21:19:05.590 INFO 30676 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 21:19:05.590 INFO 30676 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 21:19:05.591 INFO 30676 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 21:19:05.592 INFO 30676 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 21:19:05.593 INFO 30676 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 21:19:05.593 INFO 30676 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 21:19:05.594 INFO 30676 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 21:19:05.595 INFO 30676 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 21:19:05.597 INFO 30676 [ '[QUERY]: COMMIT' ]
+2025-07-27 21:19:05.597 INFO 30676 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 21:19:34.461 INFO 29752 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 21:19:34.463 INFO 29752 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 21:19:34.464 INFO 29752 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 21:19:34.465 INFO 29752 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 21:19:34.466 INFO 29752 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 21:19:34.466 INFO 29752 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 21:19:34.466 INFO 29752 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 21:19:34.467 INFO 29752 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 21:19:34.468 INFO 29752 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 21:19:34.470 INFO 29752 [ '[QUERY]: COMMIT' ]
+2025-07-27 21:19:34.470 INFO 29752 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 21:44:27.298 INFO 16292 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 21:44:27.300 INFO 16292 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 21:44:27.301 INFO 16292 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 21:44:27.302 INFO 16292 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 21:44:27.303 INFO 16292 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 21:44:27.304 INFO 16292 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 21:44:27.304 INFO 16292 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 21:44:27.305 INFO 16292 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 21:44:27.305 INFO 16292 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 21:44:27.307 INFO 16292 [ '[QUERY]: COMMIT' ]
+2025-07-27 21:44:27.307 INFO 16292 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 21:58:28.745 INFO 35120 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 21:58:28.746 INFO 35120 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 21:58:28.747 INFO 35120 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 21:58:28.748 INFO 35120 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 21:58:28.749 INFO 35120 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 21:58:28.749 INFO 35120 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 21:58:28.749 INFO 35120 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 21:58:28.750 INFO 35120 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 21:58:28.751 INFO 35120 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 21:58:28.753 INFO 35120 [ '[QUERY]: COMMIT' ]
+2025-07-27 21:58:28.753 INFO 35120 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
+2025-07-27 22:02:30.518 INFO 19696 [ '[QUERY]: PRAGMA foreign_keys = OFF' ]
+2025-07-27 22:02:30.520 INFO 19696 [ '[QUERY]: BEGIN TRANSACTION' ]
+2025-07-27 22:02:30.520 INFO 19696 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" IN ('user')`
+]
+2025-07-27 22:02:30.521 INFO 19696 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'index' AND "tbl_name" IN ('user')`
+]
+2025-07-27 22:02:30.522 INFO 19696 [ '[QUERY]: PRAGMA table_xinfo("user")' ]
+2025-07-27 22:02:30.523 INFO 19696 [ '[QUERY]: PRAGMA index_list("user")' ]
+2025-07-27 22:02:30.523 INFO 19696 [ '[QUERY]: PRAGMA foreign_key_list("user")' ]
+2025-07-27 22:02:30.524 INFO 19696 [ '[QUERY]: PRAGMA index_info("sqlite_autoindex_user_1")' ]
+2025-07-27 22:02:30.524 INFO 19696 [
+  `[QUERY]: SELECT * FROM "sqlite_master" WHERE "type" = 'table' AND "name" = 'typeorm_metadata'`
+]
+2025-07-27 22:02:30.526 INFO 19696 [ '[QUERY]: COMMIT' ]
+2025-07-27 22:02:30.527 INFO 19696 [ '[QUERY]: PRAGMA foreign_keys = ON' ]
